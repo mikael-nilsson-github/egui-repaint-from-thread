@@ -1,5 +1,5 @@
 [package]
-name = "repaint-from-thread"
+name = "egui-repaint-from-thread"
 version = "0.1.0"
 edition = "2021"
 
